@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D90402D-906C-4A57-967C-5AAF3826A8C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2347,
+    "width": 1024,
+    "x": 612,
+    "y": -512
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6D973691-093B-402D-B111-ACDB063EF6E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "114DFF2B-C51B-4ECC-938D-B5278E63A94A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39DD5712-0B4B-47D6-A152-A0298A42B15B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E65C3E5-07CF-4A86-A5AE-B071959E2B7F"
+    },
+    {
+      "class": "group",
+      "id": "2A383FE3-2C93-456B-854D-C01BB4418C12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F8F5D66-6CBD-434F-B193-8717FF9415A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29B95E8B-11E3-4CA4-9FCE-9834EC0737FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7592B39-A044-43EA-83BE-4BCCEBA3A8F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5CB8BD9-EE4C-4436-BBF1-1EA34D2A47A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59A78B70-D92A-497A-AF1C-FA2445112380"
+    }
+  ],
+  "name": "Event page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

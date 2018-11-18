@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2170,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DE64E19-4827-4238-9B11-09E45ACF69B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 273,
+    "width": 1022,
+    "x": 219,
+    "y": -350
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A392A751-46C6-4098-A485-DB6734DAEE48"
+    },
+    {
+      "class": "text",
+      "id": "9E19434B-987A-4C57-8406-8FE2232E1D9F"
+    },
+    {
+      "class": "text",
+      "id": "347CF22C-DE73-43BB-9716-E8AB4B1F28D0"
+    },
+    {
+      "class": "text",
+      "id": "7B363399-0794-46CC-9FE3-1E6DE3989CD5"
+    },
+    {
+      "class": "text",
+      "id": "852CF70C-D5D4-44E6-A4D5-A736112C2F26"
+    },
+    {
+      "class": "text",
+      "id": "2E33F67D-ECE8-45FD-8A74-8E137E271341"
+    },
+    {
+      "class": "text",
+      "id": "40F2189D-9499-43A2-8255-E9174C34BAB7"
+    },
+    {
+      "class": "shapePath",
+      "id": "4DCAA0CE-C22C-4867-AB03-76A26492A880"
+    },
+    {
+      "class": "shapePath",
+      "id": "D653ECCC-FFE1-43AA-BCD9-F971640A7BFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "22ED0218-AA6C-47FC-9449-454359C8D1E8"
+    },
+    {
+      "class": "text",
+      "id": "410E49E9-2EDC-4269-8D72-0B24CDF5790D"
+    },
+    {
+      "class": "text",
+      "id": "06CF50F6-81E9-495F-BAB9-4D2411DCB416"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCAAE355-EDCD-4D0B-9C4C-599293082BAE"
+    },
+    {
+      "class": "bitmap",
+      "id": "FE76CC6E-4602-4D48-B542-ED96916F8953"
+    }
+  ],
+  "name": "Desktop footer",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D30E44C4-F5F5-4FDE-BEC3-4FC6B4F7767E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

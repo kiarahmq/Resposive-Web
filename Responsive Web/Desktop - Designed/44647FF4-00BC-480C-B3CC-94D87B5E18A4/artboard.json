@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3FDDAA27-93F6-4945-8EA9-E785D96736F7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44647FF4-00BC-480C-B3CC-94D87B5E18A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D07B272A-175A-4DDE-90FE-F4472A1CEF43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C50F17E-A3A6-46D2-8D02-2CB9C9FEA4F9",
+    "height": 2347,
+    "width": 1024,
+    "x": -1494,
+    "y": -3071
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7DF8DF9F-7895-4FE1-8CEC-644B0C9B76B5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "998F8D3C-8B7E-4321-97B9-0A792F233CD3"
+    },
+    {
+      "class": "rectangle",
+      "id": "9298910E-30F4-45F0-967A-BEDF6E7202D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4D84BD5-735B-48CE-8110-EEFBA1309BA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1BD3B90-952C-4980-B1FA-2FE2A66BCD67"
+    },
+    {
+      "class": "group",
+      "id": "CB3AB4E3-DAFF-4249-BEAD-B6CDE01F9D8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "806365BC-24B4-45DB-AB24-512BE3A3BC7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7867F5E0-6FD6-4AC2-A2EC-3323F82FF21B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C8BE3F4-0826-41F8-B6FE-8B8FEF54A1A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E67B8ED-7CAD-466B-8C5B-EE6440C9FB69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80DB8F97-E7A8-4367-B34D-4EF26F537ED0"
+    }
+  ],
+  "name": "Event page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58284E13-3492-48B0-B5BA-17438D4D597E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AE92C528-F037-47CA-B727-E719A19875B2",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E16F9676-A1CA-40B8-81DE-0AE3945CE0C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3597,
+    "width": 1024,
+    "x": 3700,
+    "y": 2089
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4A61EB63-90E9-4A3D-91D7-7DFA8C24594E"
+    },
+    {
+      "class": "group",
+      "id": "1A9F88C0-F235-4692-94A8-350BE749FAC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEA8DC20-22D3-4224-9CF9-F23575753618"
+    },
+    {
+      "class": "bitmap",
+      "id": "10B5FEC4-C2D5-461C-8AF5-F97F3ADCC4F4"
+    },
+    {
+      "class": "bitmap",
+      "id": "CA313C40-101B-417C-8B33-986D8D4ADC8B"
+    },
+    {
+      "class": "bitmap",
+      "id": "AC5D5E14-B7F7-4A52-9150-25706E77AF1C"
+    },
+    {
+      "class": "bitmap",
+      "id": "D8D4FFFB-FA72-4373-993E-3B1862C1DB6C"
+    },
+    {
+      "class": "text",
+      "id": "038A59E0-02F8-4D48-B756-5DF39CA48F54"
+    },
+    {
+      "class": "text",
+      "id": "3FBD82F4-04E6-4A0C-B1FF-0109497CC4BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "499151EA-7B5A-4DC4-BDFD-3AA8CCBD0812"
+    },
+    {
+      "class": "bitmap",
+      "id": "818912CF-4AF8-41CA-A314-ECDFB12E6C1A"
+    },
+    {
+      "class": "bitmap",
+      "id": "916AED24-4C5C-4F9D-B0E3-B5F45135017A"
+    },
+    {
+      "class": "bitmap",
+      "id": "2BA94046-24AC-4B6A-BAC7-7369871F1229"
+    }
+  ],
+  "name": "FACULTY",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

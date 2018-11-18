@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D8EC195-9284-4354-9584-4F34F7C24C5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "251AFB46-7A2B-4AEB-AE9D-E93D8AB6991A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FF07213-1DA8-474D-91C3-5D4E87D18198",
+    "height": 275,
+    "width": 1024,
+    "x": 0,
+    "y": 1889
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59D22FE6-0C57-48DB-BFD4-DEC84CCD5F74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D30E44C4-F5F5-4FDE-BEC3-4FC6B4F7767E",
+  "verticalSpacing": 0
+}

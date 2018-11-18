@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D27F4FBC-C459-47D3-A703-3F0E1931CECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2164,
+    "width": 1024,
+    "x": 2860,
+    "y": -569
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2111868B-B6B1-4608-901A-C53448727768"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "954F9CE2-56A4-43F5-9DB7-9DE6C2618377"
+    },
+    {
+      "class": "group",
+      "id": "92AE94FE-2488-4BFA-9213-21AF48A09A62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "117C63D1-A6AA-48E0-9E1A-779516783DD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C523F118-925D-4CE1-B77B-BE842DDA0A92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A43B1A9D-331D-4A11-AB24-B8401A12974C"
+    }
+  ],
+  "name": "Student work page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F3B387E-73B9-4C97-AD1F-3973258183EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55CBD32C-70E8-4092-B154-0A6C4A238C40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D5D3F6C-D3C9-4799-9FC6-2CCFC194ED94",
+    "height": 112,
+    "width": 316,
+    "x": 30,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "works",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20A061F9-9184-4D55-A2CD-344720234002",
+      "overrideName": "B4874FCF-2C2C-4486-9055-A5DE52FAAFBD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2ad5167d077fbbbe473daa8d3c8ceaf902cc4e6b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BC64269-ACA6-4BF4-B676-B5FCB06D5456",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0003D89D-D28B-4CDD-8AAB-743BCE8DEA39",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "5199106C-4F50-49C6-85FB-414391C91620",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

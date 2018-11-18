@@ -1,0 +1,104 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB4C5872-E890-4048-9C17-7A42BB487F7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -335,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "44C7A834-0234-4F5C-BAB4-FBF3D15D8B3F"
+    },
+    {
+      "class": "artboard",
+      "id": "13842B29-3397-4775-8F60-3045A3422F9C"
+    },
+    {
+      "class": "artboard",
+      "id": "8FEE5853-6725-44FB-8FCB-4FAB7F6AD517"
+    },
+    {
+      "class": "artboard",
+      "id": "5199106C-4F50-49C6-85FB-414391C91620"
+    },
+    {
+      "class": "artboard",
+      "id": "A0A79CEB-725B-4F26-8EDE-C1B29211748D"
+    },
+    {
+      "class": "artboard",
+      "id": "A6643C6A-5EC9-4886-BB19-A08581533E0F"
+    },
+    {
+      "class": "artboard",
+      "id": "75058852-4105-473B-BF0F-80FA0C802AD6"
+    },
+    {
+      "class": "artboard",
+      "id": "51073FA6-8700-4C54-B3D3-32A815056B32"
+    },
+    {
+      "class": "artboard",
+      "id": "641E682F-72C5-41CB-A0B8-98FCA1D7594C"
+    },
+    {
+      "class": "artboard",
+      "id": "5F70C5A5-ED4E-4569-A68C-72CC810C3AA2"
+    }
+  ],
+  "name": "Designed - Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -305,
+    "guides": [
+    ]
+  }
+}

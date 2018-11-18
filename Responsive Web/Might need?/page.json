@@ -1,0 +1,111 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99AE0696-CFF2-4BE4-81AD-3BD4A5B97468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -485,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "46C7A398-8C6A-4085-92D4-493C0C2587CD"
+    },
+    {
+      "class": "artboard",
+      "id": "09479D65-F164-44C3-BBC1-F60B7E14A29F"
+    },
+    {
+      "class": "rectangle",
+      "id": "E5270684-FA17-45C3-AFFE-0FCDE6383B7E"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE6A8237-8C10-442C-94C2-50317DACF1B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "A1A515CE-FC5C-4B41-941D-528D9F9367A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "778C5A96-1F4B-4BF5-9C65-A04A02A0CCBC"
+    },
+    {
+      "class": "rectangle",
+      "id": "57177982-FDE4-4C99-97F5-908C4CB7E33B"
+    },
+    {
+      "class": "text",
+      "id": "811141B0-9289-46E9-BAA9-35FBEB212DD9"
+    },
+    {
+      "class": "text",
+      "id": "E9BC0AB7-6A05-47EF-9991-CFBA51FF60C7"
+    },
+    {
+      "class": "text",
+      "id": "C418B346-3839-4064-BCB5-F4A382E29FBE"
+    },
+    {
+      "class": "text",
+      "id": "735A9FBB-C638-4E1F-A6D7-55C5F52E11B9"
+    },
+    {
+      "class": "text",
+      "id": "90CB011B-21C1-49A7-A476-8C26B8AC6446"
+    },
+    {
+      "class": "artboard",
+      "id": "2764A974-6431-4EAE-BFF1-A65FBE421066"
+    }
+  ],
+  "name": "Might need?",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -409,
+    "guides": [
+    ]
+  }
+}

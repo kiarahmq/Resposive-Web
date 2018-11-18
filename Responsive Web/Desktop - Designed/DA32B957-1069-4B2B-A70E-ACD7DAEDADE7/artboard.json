@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D1267A5F-6F87-48EA-919B-2943F3E8C5AE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA32B957-1069-4B2B-A70E-ACD7DAEDADE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6F62C6B-49C8-415C-A23E-C93F8D4E10F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA2D7739-7E0B-4619-9F77-3ACB2BDE21B8",
+    "height": 2164,
+    "width": 1024,
+    "x": 754,
+    "y": -3128
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D32CBDF7-54E8-4459-ACF5-5022279E62E7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9CAE45D8-3CE1-4F2B-ABAF-6B9D661A830F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53308A53-F26C-42DF-B271-FC3EB7CF0306"
+    },
+    {
+      "class": "group",
+      "id": "0A7CCCA7-313C-47CB-9B28-248D0FE52F7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D8EC195-9284-4354-9584-4F34F7C24C5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC137778-1D2D-4AEB-A7EB-1B4A79595DFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D1C22DF-0F3D-4A0A-9D9F-6B620FBA51BF"
+    },
+    {
+      "class": "text",
+      "id": "DE787BA7-069F-4F2A-958A-C423A3B07D72"
+    },
+    {
+      "class": "text",
+      "id": "C3C7C1D0-4544-4DEA-967F-683F9AEFED33"
+    }
+  ],
+  "name": "Student work page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33736E9E-0320-4446-AD79-713973E64890",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D4FA8B6-7889-42DD-9159-1776824AB5A0",
+    "guides": [
+    ]
+  }
+}

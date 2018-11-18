@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "586ACE13-02CE-4396-9DF9-2021EDFA58C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 226,
+    "width": 779,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "85C464F0-13A8-4BAD-A79D-B83D9873552A"
+    },
+    {
+      "class": "text",
+      "id": "A863F49A-8E7C-4A4D-B353-731C815BFCE3"
+    },
+    {
+      "class": "text",
+      "id": "C503ABE4-106E-4315-82D4-71474CBAB235"
+    },
+    {
+      "class": "text",
+      "id": "2FA8F0E8-F89C-4416-9463-5DEAD601E3E9"
+    },
+    {
+      "class": "text",
+      "id": "674C54BE-0753-473F-BE71-E4FDB8FA50D9"
+    }
+  ],
+  "name": "event copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+  }
+}

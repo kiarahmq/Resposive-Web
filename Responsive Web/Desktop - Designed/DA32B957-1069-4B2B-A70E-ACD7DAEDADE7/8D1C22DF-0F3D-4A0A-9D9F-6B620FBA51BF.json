@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D1C22DF-0F3D-4A0A-9D9F-6B620FBA51BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B65829CB-CA9B-40D7-8423-70F406988B59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE01015E-6943-4ABE-923D-6BA1F4493256",
+    "height": 416,
+    "width": 702,
+    "x": 161,
+    "y": 1352
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "desktop events",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90D6A291-9F03-4FAE-99E5-C6272D1C4F88",
+      "overrideName": "4EB88C7D-651B-4002-9146-13F7664EEAC7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bac6d7555928d73eae27fcc5bee766b64aa17f88.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5272797B-1CEB-4238-8275-BE09DBE9975E",
+      "overrideName": "529589BC-339C-4C63-96D3-599DF39C11C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cb6fa01045d1b54a28e083a37869f2cd83e247a7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A5095C1-2D63-450F-A827-BA9DBD6580A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "375CD182-475F-46B3-BD3A-2125469C56B5",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "156FF468-01F8-4B55-9911-C4E4ADA8006A",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

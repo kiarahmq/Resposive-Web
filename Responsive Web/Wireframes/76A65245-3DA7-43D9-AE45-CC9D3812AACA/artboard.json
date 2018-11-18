@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76A65245-3DA7-43D9-AE45-CC9D3812AACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1075,
+    "width": 375,
+    "x": 1960,
+    "y": 195
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "32686270-5AA4-4A35-ABED-54D87D568D68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43C80AF5-75A9-433F-8737-DAFEDBE23051"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA7661CB-DF2C-4778-A1D9-B60277C1C51A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08E1117B-E661-47C9-B3F3-6C0253F660F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25811314-CABD-4DC1-A1DD-04B77E589698"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30488C4C-7B35-4074-B968-9F5A2C6AE6A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06FCFD45-8A61-4E1D-9204-1B17F49B6B11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1869FFF-7AF2-44CE-85F1-932B64E5ED77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91A29F18-DDAE-4350-9F47-4DEE0CB25471"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2DACD9B-4E95-412A-9CE3-E731C72B9230"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0AA455D-A520-478F-8B93-1A501A594F0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFA200D6-CD3F-4031-9002-A8B5D0830AFC"
+    },
+    {
+      "class": "text",
+      "id": "41341D9E-220A-45C4-ACB7-387546FBC5C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B269D49C-97DC-4494-A216-090EEC5FB906"
+    }
+  ],
+  "name": "Student work",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

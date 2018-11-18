@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D07D3729-4DF9-464D-8802-47A48940DDA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07F55AFC-238B-4BD1-A950-BD266A69B0D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DABC0412-CC0C-44FB-A054-5C29470B4361",
+    "height": 95,
+    "width": 342,
+    "x": 15,
+    "y": 235
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "event copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEBB4269-A895-471C-A429-598C5A8447EB",
+      "overrideName": "6BE9015C-2CF2-4099-B7F0-7B83CBE7E9CF_stringValue",
+      "value": "Event Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A635318D-7875-4AA2-A09B-5754181A6792",
+      "overrideName": "11355970-0D2A-44B3-88CB-92BC293A0CC5_stringValue",
+      "value": "NOV"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09166863-7615-49BF-8C30-CDDCA453EB0A",
+      "overrideName": "C812034F-B805-41F5-A749-C2400794B477_stringValue",
+      "value": "27"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3158E86-5161-480B-AC09-CC1C8D4E69C5",
+      "overrideName": "B4B58301-857B-4DE7-9967-297915BE2511_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ef4fbefa48d978f6331d4bf6a874ef87ae79ce15.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5C96D03-B8E2-45E7-9A12-F8EA4355F08B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B0E7BF7-223C-4B15-A4C8-0825BF940AF7",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "8FEE5853-6725-44FB-8FCB-4FAB7F6AD517",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}
